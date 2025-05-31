@@ -22,6 +22,6 @@ Well you can call me Narrow and I'm just a guy who makes some websites, games an
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=pabloarzaoo&count_private=true&show_icons=true&include_all_commits=true)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=pabloarzaoo&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pabloarzaoo.pabloarzaoo)

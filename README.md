@@ -23,6 +23,6 @@ Well you can call me Narrow and I'm just a guy who makes some websites, games an
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=pabloarzaoo&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloarzaoo&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pabloarzaoo.pabloarzaoo)

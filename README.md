@@ -2,6 +2,11 @@
 
 Well you can call me Narrow and I'm just a guy who makes some websites, games and other things to pass the time
 
+📍 I'm from Brazil and I don't play soccer😩
+💬 I love to talk and I'm always available
+😄 i like Cats :3
+👾 Fun fact: I can only concentrate when I talk a lot of nonsense or say random things.
+
 [![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/narrowsilly/)](https://www.instagram.com/narrowsilly/)
 [![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@NarrowTheGuy)](https://www.youtube.com/@NarrowTheGuy)
 

@@ -6,6 +6,9 @@ Well you can call me Narrow and I'm just a guy who makes some websites, games an
 - 💬 I love to talk and I'm always available  
 - 😄 I like Cats :3  
 - 👾 Fun fact: I can only concentrate when I talk a lot of nonsense or say random things.  
+- My Alura:
+- https://cursos.alura.com.br/certificate/b177ac87-d1dc-4fde-88c8-bbaf5321724b?lang=pt_BR
+- 
 
 [![Instagram Badge](https://img.shields.io/badge/-Narrow-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/narrowsilly/)](https://www.instagram.com/narrowsilly/)
 [![Youtube Badge](https://img.shields.io/badge/-Narrow-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@NarrowTheGuy)](https://www.youtube.com/@NarrowTheGuy)

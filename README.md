@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1b612422-749f-4546-82c4-65773b0d35c9)## Hewoo Guys!!!
+## Hewoo Guys!!!
 
 Well you can call me Narrow and I'm just a guy who makes some websites, games and other things to pass the time
 

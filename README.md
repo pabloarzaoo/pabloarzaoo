@@ -1,4 +1,4 @@
-<img width="717" height="504" alt="image" src="https://github.com/user-attachments/assets/af1e2511-a76f-4a20-a34d-e78150369fb4" />## Hewoo Guys!!!
+## Hewoo Guys!!!
 
 Well you can call me Narrow and I'm just a guy who makes some websites, games and other things to pass the time
 

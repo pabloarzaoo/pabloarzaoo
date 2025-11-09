@@ -1,30 +1,37 @@
 ## About Me
 
 I’m Narrow, a developer focused on building websites, games, and interactive experiences.  
-My work centers on clean structure, performance, and intuitive user experience. I am always improving my skills and exploring new technologies to deliver reliable and well-crafted projects.
+My work centers on clean structure, performance, and intuitive user experience.
 
 - 📍 Based in Brazil  
 - 💬 Open to discussions, collaborations, and new ideas  
-- 🐱 Enjoy a calm and organized work environment  
-- 👨‍💻 Interested in web development, game design, and software architecture  
+- 🐱 Prefer calm and organized work environments  
 - 🔧 Currently working on: Roblox survival systems, weather simulation, and backend integrations  
 
 ## Skills & Technologies
 
-**Languages:** JavaScript, TypeScript, Python, Lua, HTML, CSS  
-**Areas of interest:**  
-- Game development (Roblox, Unity basics)  
+### Languages & Tools  
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### Areas of Interest  
+- Game development (Roblox)  
 - Full-stack web development  
-- Weather systems, simulations and real-time data  
+- Weather simulations and real-time data  
 - UI/UX principles  
-- API integration and data visualization  
+- API integration and automation  
 
 ## Projects & Focus
 
-- Development of advanced weather systems for games  
-- Creation of immersive and survival-based Roblox experiences  
-- Building clean, responsive and modern interfaces for websites  
-- Experimenting with automation tools and Discord bots  
+- Advanced weather systems  
+- Responsive interfaces for web applications  
+- Automation tools and Discord bots  
 
 ## Social Media
 

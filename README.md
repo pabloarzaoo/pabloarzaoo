@@ -6,7 +6,7 @@ My work centers on clean structure, performance, and intuitive user experience.
 - 📍 Based in Brazil  
 - 💬 Open to discussions, collaborations, and new ideas  
 - 🐱 Prefer calm and organized work environments  
-- 🔧 Currently working on: Roblox survival systems, weather simulation, and backend integrations  
+- 🔧 Currently working on: Weather simulation, and backend integrations  
 
 ## Skills & Technologies
 

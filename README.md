@@ -1,6 +1,6 @@
 ## About Me
 
-I’m Narrow, a developer focused on building websites, games, and interactive experiences.  
+I’m Pablo, a developer focused on building websites, games, and interactive experiences.  
 My work centers on clean structure, performance, and intuitive user experience.
 
 - 📍 Based in Brazil  

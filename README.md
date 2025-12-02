@@ -3,10 +3,9 @@
 I’m Pablo, a developer focused on building websites, games, and interactive experiences.  
 My work centers on clean structure, performance, and intuitive user experience.
 
-- 📍 Based in Brazil  
-- 💬 Open to discussions, collaborations, and new ideas  
+- 📍 Brazil  
+- 💬 Open to chat :3
 - 🐱 Prefer calm and organized work environments  
-- 🔧 Currently working on: Weather simulation, and backend integrations  
 
 ## Skills & Technologies
 

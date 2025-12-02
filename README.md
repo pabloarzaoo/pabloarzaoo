@@ -21,7 +21,7 @@ My work centers on clean structure, performance, and intuitive user experience.
 
 ### Areas of Interest  
 - Game development (Roblox)  
-- Full-stack web development  
+- Web development  
 - Weather simulations and real-time data  
 - UI/UX principles  
 - API integration and automation  

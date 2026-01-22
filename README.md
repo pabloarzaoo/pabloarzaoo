@@ -1,16 +1,20 @@
-## About Me
+# 👋 Hi, I’m Pablo
 
-I’m Pablo, a developer focused on building websites, games, and interactive experiences.  
-My work centers on clean structure, performance, and intuitive user experience.
+Developer focused on **websites, games, and interactive stuff**.  
+I like clean structure, good performance, and interfaces that don’t fight the user.
 
-- 📍 Brazil  
-- 💬 Open to chat :3
-- 🐱 Prefer calm and organized work environments  
+Basically: things that work.
 
-## Skills & Technologies
+- 📍 Based in Brazil  
+- 💬 Open to chat (yes, really)  
+- 🐱 Works best in calm, organized environments  
 
-### Languages & Tools  
-<p>
+---
+
+## 🛠 Tech Stack
+
+### Languages & Tools
+<p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -19,29 +23,46 @@ My work centers on clean structure, performance, and intuitive user experience.
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### Areas of Interest  
-- Game development (Roblox)  
-- Web development  
-- Weather simulations and real-time data  
-- UI/UX principles  
-- API integration and automation  
+---
 
-## Projects & Focus
+## 🧠 Interests (Things I Actually Care About)
 
-- Advanced weather systems  
-- Responsive interfaces for web applications  
-- Automation tools and Discord bots  
-
-## Social Media
-
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-5851DB?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/narrowsilly/)  
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-B50000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@NarrowTheGuy)
+- Game development (mainly Roblox)  
+- Web development (responsive, fast, readable)  
+- Weather systems & real-time data  
+- UI/UX that makes sense  
+- APIs, automation, and bots that behave  
 
 ---
 
-## GitHub
+## 🚀 Current Focus
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pabloarzaoo&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloarzaoo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+- Advanced weather systems  
+- Responsive web interfaces  
+- Automation tools & Discord bots  
+
+No buzzwords. Just building.
+
+---
+
+## 🌐 Social
+
+[![Instagram](https://img.shields.io/badge/Instagram-5851DB?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/narrowsilly/)  
+[![YouTube](https://img.shields.io/badge/YouTube-B50000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@NarrowTheGuy)
+
+---
+
+## 📊 GitHub Stuff (Because Everyone Scrolls Here)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pabloarzaoo&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloarzaoo&layout=compact&theme=dark" />
+</p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pabloarzaoo.pabloarzaoo)
+
+---
+
+Thanks for visiting.  
+Feel free to look around. Or don’t.  
+The code will still be here.

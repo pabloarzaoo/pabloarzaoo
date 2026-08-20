@@ -1,18 +1,8 @@
 # Hi, I'm Pablo!!
 
-Developer with experience in alot of things :3. Focused on building systems that handle real-world data with reliability and performance. Currently developing a meteorological analysis platform that integrates radar, satellite, and atmospheric data.
+Developer with experience in alot of things :3. Currently developing a meteorological analysis platform that integrates radar, satellite, and atmospheric data.
 
-Interest in data science and applied meteorology, building tools for analysis.
-
----
-
-## Work
-
-- Web and desktop development  
-- API integration  
-- Real-time data processing  
-- Data science  
-- Scalable systems  
+Interest in data science
 
 ---
 
@@ -44,10 +34,7 @@ Meteorological analysis platform:
 
 ## Focus
 
-- Build systems to collect, process, and visualize them 
-- Work with real-time data
-- Apply data science
-- Develop practical tools for use  
+- Cheese
 
 ---
 

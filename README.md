@@ -32,12 +32,6 @@ Meteorological analysis platform:
 
 ---
 
-## Focus
-
-- Cheese
-
----
-
 ## Status
 
 <p align="left">
